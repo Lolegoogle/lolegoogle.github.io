@@ -1,0 +1,62 @@
+body{
+	background-color: #b5a789;
+	font-family: Verdana, Geneva, Arial, sans-serif;
+		font-size: small;
+
+	margin-left: 20%;
+	margin-right: 20%;
+
+}
+h1{
+	font-size: 170%;
+}
+h2{
+	font-size: 130%;
+}
+h1,h2{
+	color: #c60;
+	text-decoration: underline;
+}
+blockquote {
+	font-style: italic;
+}
+table{
+	margin-left: 20px;
+	margin-right: 20px;
+	border: thin solid black;
+	caption-side: bottom;
+	border-spacing: 10px 15px;
+	border-collapse: collapse;
+}
+
+td,th{
+	border: thin dotted gray;
+	padding: 5px;
+}
+th{
+	background-color: #cc6600;
+}
+
+caption{
+	font-style: italic;
+	padding-top: 8px;
+	color: rgb(155,50 ,39);
+}
+.center{
+text-align: center;
+}
+.right{
+	text-align: right;
+}
+.cellcolor{
+	background-color: #fcba7a;
+}
+table table th{
+	background-color:#b5a789;
+}
+
+li{
+	list-style-image: url(backpack.jpg);
+	padding-top: 5px;
+	margin-left: 20px;
+}
