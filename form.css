@@ -50,7 +50,7 @@ background: #fff;
 color: #2c536c;
 
 }
-.dws-input::before{
+#dws-input::before{
 	font-family:"FontAwesome";
 		content: "\f007";
 		position: absolute;
